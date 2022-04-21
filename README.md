@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-$ npx degit pgw6541/vue3-webpack-template#eslint DIRECTORY_NAME
+$ npx degit pgw6541/vue3-template# DIRECTORY_NAME
 
 
 # Start!
